@@ -1,4 +1,4 @@
-#Awesome Electrical Engineering Resources
+# Awesome Electrical Engineering Resources
 
 ## Electric Circuits
 
